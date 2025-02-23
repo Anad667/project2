@@ -1,0 +1,6 @@
+Appliance,Power_Consumption(kW),Usage_Hours
+Washing Machine,1.2,2
+Air Conditioner,2.5,5
+Refrigerator,0.8,24
+TV,0.2,4
+Iron,1.5,1
