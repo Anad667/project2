@@ -1,1 +1,1 @@
-# project2
+# Smart Load Balancer for Home Appliances
